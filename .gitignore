@@ -1,0 +1,29 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# API keys or secrets
+.env
+config.json
+*.key
+
+
+# FAISS index (too large)
+*.faiss
+
+# Large datasets
+*.nxml
+*.jsonl
+*.csv
+
+# Optional: outputs
+*.log
+
+# Large or sensitive files
+rag-index.faiss
+mapping(1).json
+statpearls_NBK430685/
+
+# Optional: ignore raw data not needed for demo
+*.nxml
