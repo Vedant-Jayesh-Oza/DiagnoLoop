@@ -2,6 +2,9 @@
 
 **DiagnoLoop** is an end-to-end intelligent medical assistant that transcribes patient-reported symptoms (audio or text), extracts clinical entities using **AWS Comprehend Medical**, and generates accurate disease predictions using a **fine-tuned LLM** combined with **RAG (Retrieval-Augmented Generation)** and a structured **knowledge graph (Infermedica)**.
 
+## 📄 Preliminary Paper
+**[View Preliminary Research Paper](https://drive.google.com/file/d/1xbmrr6zhPp5GIsa0123cEuleYzJ-dUpX/view?usp=sharing)** - Comprehensive analysis of the DiagnoLoop multi-modal AI diagnostic system
+
 ---
 
 ## 🔬 Use Case
